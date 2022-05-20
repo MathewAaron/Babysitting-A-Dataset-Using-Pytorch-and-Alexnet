@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 24 17:16:06 2022
 
-@author: Dell 
+@author: Aaron Mathew
 """
 import sys
 from Models.AlexNet import AlexNet
